@@ -1,6 +1,15 @@
 import Vue from 'vue'
+import './plugins/axios'
 import App from './App.vue'
 import router from './router'
+import './plugins/element.js'
+
+// 导入全局样式表
+import './assets/css/global.css'
+//导入图标库
+
+// 设置请求的根路径
+
 
 Vue.config.productionTip = false
 
