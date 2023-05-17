@@ -6,8 +6,8 @@ import './plugins/element.js'
 
 // 导入全局样式表
 import './assets/css/global.css'
-//导入图标库
-
+//导入Fontawesome图标库
+import './fontawesome-free-6.3.0-web/css/all.min.css'
 // 设置请求的根路径
 
 
